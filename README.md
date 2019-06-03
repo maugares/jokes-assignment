@@ -1,3 +1,41 @@
+### Interview assignment 
+
+# Introduction
+
+So you want to work at ACMECanMakeEverything? Awesome! Since you are receiving this assigment you already passed the first interview step. This is your chance to demonstrate your development skills to our team and management. It is also your chance to show your creativity and passion. We will use your code and application as input for the second interview. 
+
+## The assignment
+
+Your assignment is to build a simple web application.
+
+- The main page should display a programming joke with an a set up.
+- After a few seconds it will display the punchline of the joke
+- When the user refreshes the a page a different programming joke is displayed.
+
+All other requirements are up to you. You can be as creative as you like. To give you some ideas:
+
+- Include an admin page to add new jokes to the database
+- Integrate an external service like https://github.com/15Dkatz/official_joke_api
+- Make a way to share a joke on social media
+
+Evaluation criteria:
+
+- You are free to use any web technology framework you are familiar with
+
+|Criteria                               | percentage|
+|---------------------------------------|-----------|
+|*Creativity:* How creative is your app, did take advantage of web features? Do you have a cool layourt?| 33%|
+|*Quality:* How did you guarantee the quality of your code? Does it have documentation. Is your app a finished product?| 33% |
+| *Programming Structure:* Did you apply design patterns? Is your code modular? How is your seperation of concerns? Did you use libraries, etc... | 33% |
+
+## Time planning
+
+We would like to receive the working web application as well as the code a few days (2 to 3 days) before your second interview (which takes place in 2 weeks) so we can check your code and prepare for the interview. Feel free to spend as much time on this project, however keep in mind that it should be a simple application that could be finished in hours, not days. Tip: We prefer a simple working app with fewer features, than an unfinished and unstable app with many features.
+
+## Time planning
+
+You've got the rest of the working day to create this app on-site. We will review the result of your work at 16:30. That means you've got about 5 hours to complete this assignment to the best of your abilities. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
