@@ -8,7 +8,7 @@ So you want to work at ACMECanMakeEverything? Awesome! Since you are receiving t
 
 Your assignment is to build a simple web application.
 
-- The main page should display a programming joke with an a set up.
+- The main page should display a programming joke with a set up.
 - After a few seconds it will display the punchline of the joke
 - When the user refreshes the a page a different programming joke is displayed.
 
