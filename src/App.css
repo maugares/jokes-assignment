@@ -1,33 +1,42 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main-box {
+  background-image: url("https://cdn.shopify.com/s/files/1/0065/4917/6438/products/a-man-crying-in-laughter-and-a-psychedelic-warm-swirls-background_1024x1024@2x.jpg?v=1535718847");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-color: rgb(168, 17, 12);
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.secondary-box{
+  max-width: 450px;
+  background-color: rgb(12, 55, 99);
+  padding: 2rem;
+  border-radius: 1rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.main-text {
+  color:white;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 2rem;
+}
+
+.setup {
+  text-align: center;
+  color: grey;
+  font-style: italic;
+}
+
+.button{
+  position: absolute;
+  bottom: 3rem;
+  font-size: 2rem;
 }
