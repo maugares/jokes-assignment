@@ -1,10 +1,10 @@
-### Interview assignment 
+# Interview assignment 
 
-# Introduction
+## Introduction
 
 So you want to work at ACMECanMakeEverything? Awesome! Since you are receiving this assigment you already passed the first interview step. This is your chance to demonstrate your development skills to our team and management. It is also your chance to show your creativity and passion. We will use your code and application as input for the second interview. 
 
-## The assignment
+### The assignment
 
 Your assignment is to build a simple web application.
 
@@ -28,21 +28,21 @@ Evaluation criteria:
 |*Quality:* How did you guarantee the quality of your code? Does it have documentation. Is your app a finished product?| 33% |
 | *Programming Structure:* Did you apply design patterns? Is your code modular? How is your seperation of concerns? Did you use libraries, etc... | 33% |
 
-## Time planning
+### Time planning
 
 We would like to receive the working web application as well as the code a few days (2 to 3 days) before your second interview (which takes place in 2 weeks) so we can check your code and prepare for the interview. Feel free to spend as much time on this project, however keep in mind that it should be a simple application that could be finished in hours, not days. Tip: We prefer a simple working app with fewer features, than an unfinished and unstable app with many features.
 
-## Time planning
+### Time planning
 
 You've got the rest of the working day to create this app on-site. We will review the result of your work at 16:30. That means you've got about 5 hours to complete this assignment to the best of your abilities. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -50,12 +50,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -65,7 +65,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+#### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -75,32 +75,32 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+#### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+#### Analyzing the Bundle Size
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+#### Making a Progressive Web App
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+#### Advanced Configuration
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
+#### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+#### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
